@@ -9,34 +9,28 @@
 <br>
 
 <p align="center">
-  <img width="450" height="800" alt="gostack" src=".github/codigo.PNG" width="100%">
+  <img width="800" height="800" alt="gostack" src=".github/codigo.PNG" width="100%">
 </p>
 
-## GoStack - Primeiro modulo React Native
+## GoStack - Curso extra FlexBox
 
 ## 🚀 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-- [React Native](https://reactnative.dev/) - 0.63.3
-- [Yarn](https://yarnpkg.com/) - 1.22.4
-- [Npm](https://www.npmjs.com/) - 6.14.5
+- [HTML5](https://developer.mozilla.org/pt-BR/docs/Web/HTML/HTML5) 
+- [CSS3](https://developer.mozilla.org/pt-BR/docs/Web/CSS) 
 
 
 ## 💻 Projeto
 
-Projeto simples que lista os projetos e criar novos projetos.
-
-O projeto consome os dados da seguinte [API](https://github.com/jamangueira7/gostack-back-end-nodejs-1) 
-
+Projeto para estudar Flexbox copiando o layout do Twitter.
 
 ## 🚀 Como Rodar
 
 - Clone o projeto.
-- Entre na pasta do projeto e rode yarn install (pode usar npm install de acordo com a sua configuração).
-- yarn dev para rodar o projeto (localhost:3333).
-
-Para rodar o emulador do Android ou iOS siga o guia da [Rocketseat](https://react-native.rocketseat.dev/).
+- Entre na pasta do projeto.
+- Abra a pagina index.html no browser
 
 ## 🤔 Como contribuir
 
